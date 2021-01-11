@@ -3,7 +3,11 @@ layout: default
 ---
 
 {% include page-intro.html %}
-
+<style>
+.intro-title {
+    display: none;
+}
+</style>
 <main id="main" class="page-content" aria-label="Content">
   <div class="index inner">
     <div>{{ content }}</div>
@@ -24,5 +28,8 @@ layout: default
         {% endif %}
       </div>
     </div>
-  </div>
+</div>
 </main>
+<aside>
+	<a href="https://gitee.com/Uaenalu/" style="right: 0;top: 50%;position: fixed;">我的Gitee</a>
+</aside>
