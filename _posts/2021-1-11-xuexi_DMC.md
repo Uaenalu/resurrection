@@ -4,10 +4,10 @@ title: 创新的思维，奇妙的想象
 excerpt_separator: "<!--more-->"
 categories:
      - 学习笔记
----
+---  
 标签: 学习笔记 PS PR Markdown
-*在该学期的数字多媒体创作中，我运用了俩个软件：*
-<!--more-->  
+<!--more--> 
+*在该学期的数字多媒体创作中，我运用了俩个软件：* 
 
 *PS 与 PR*
 
