@@ -7,6 +7,7 @@ categories:
 ---
 标签: 学习笔记 PS PR Markdown
 *在该学期的数字多媒体创作中，我运用了俩个软件：*
+<!--more-->  
 
 *PS 与 PR*
 
