@@ -17,7 +17,7 @@ categories:
 - 学习了对图像颜色的处理，学会了抠图并合成的一系列操作
 
 #### 成品
-![海报作业](/assets/images/haibao.gif)
+![海报作业](/assets/images/haibao.png)
 
 **PR**
 - 学习了混剪  
