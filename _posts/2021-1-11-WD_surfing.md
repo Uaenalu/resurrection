@@ -2,7 +2,7 @@
 layout: page
 title: 吸引冲浪选手的网站该是什么样子的
 excerpt_separator: "<!--more-->"
-tags:
+categories:
      - 网站设计
 ---
 标签: 网站设计 网页因素 Markdown
