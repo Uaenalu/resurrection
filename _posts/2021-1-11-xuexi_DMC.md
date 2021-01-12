@@ -2,7 +2,7 @@
 layout: page
 title: 创新的思维，奇妙的想象
 excerpt_separator: "<!--more-->"
-tags:
+categories:
      - 学习笔记
 ---  
 标签: 学习笔记 PS PR Markdown
