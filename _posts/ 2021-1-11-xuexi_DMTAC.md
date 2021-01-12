@@ -2,7 +2,7 @@
 layout: page
 title: 网络丰富多彩，协议给我们以安全
 excerpt_separator: "<!--more-->"
-categories:
+tags:
      - 学习笔记
 ---  
 标签: 学习笔记 HTML TCP/IP Markdown
