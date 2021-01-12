@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: zh-CN
-title: Tangzijun Personal website
+title: Tangzijun 
 email:
 description: 唐子君的jekyll网站，网页设计与制作课程期末项目
 baseurl: "resurrection"# the optional subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   twitter:
   picture:
 twitter_username:
-github_username: tangzijun
+github_username: Uaenalu
 logo: "/assets/images/touxiang.jpg"
 search: true #, false (default)
 search_full_content: true # true, false (default)
