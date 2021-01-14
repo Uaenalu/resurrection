@@ -27,7 +27,7 @@ categories:
 - 进行了三次知识考察巩固了学习内容   
 
 #### 了解
-![状态码](/assets/images/Status code.png)  
+![状态码](/assets/images/Status code.jpg)
 
 ### 拓展
 除了HTTP和TCP/IP，本学期学习中学会了运用markdown语法/tsv/csv来编写内容。  
